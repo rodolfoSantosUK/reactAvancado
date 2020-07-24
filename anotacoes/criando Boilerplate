@@ -1,0 +1,6 @@
+
+CRIANDO PROJETO USANDO YARN
+        yarn create next-app
+
+RODANDO O PROJETO
+        yarn dev

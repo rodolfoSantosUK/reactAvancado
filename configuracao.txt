@@ -1,0 +1,17 @@
+Configuracao inicial
+
+INSTALANDO NVM
+
+    instalando nvm para versionar node
+    wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.35.2/install.sh | bash
+
+    instalando versão mais recente do node:
+    nvm install node
+
+    instalando outra versão
+    nvm install 6.14.4
+
+    Switch entre as versões
+    nvm use node
+
+instalar yarn tambem

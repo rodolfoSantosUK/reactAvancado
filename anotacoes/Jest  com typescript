@@ -1,0 +1,4 @@
+yarn add --dev jest @babel/preset-typescript @types/jest
+
+depois  de configurar tudo :
+yarn test
